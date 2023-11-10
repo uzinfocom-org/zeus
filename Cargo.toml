@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "arc-lightning",
+    "lightning-bolt",
+    "thundergods-wrath",
+    "nimbus",
+]
+resolver = "2"
